@@ -1,2 +1,3 @@
-# sonarqube-tool
+# SonarQube Tools
+
 SonarQube Tools
